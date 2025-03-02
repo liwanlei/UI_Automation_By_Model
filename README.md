@@ -1,2 +1,4 @@
-# Large-Model-Multi-Platform-UI-Automation-Testing-Framework
-基于大模型生成UI自动化case，多端并行执行demo
+# 基于大模型产生自动化测试用例，跨多端执行
+### 基于大模型生成UI自动化case，多端并行执行demo
+### 基于大模型，一键生成UI自动化case，调用case处理中枢+case执行中台+多设备兼容，实现框架多端+大模型。
+

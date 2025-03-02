@@ -4,3 +4,5 @@
 ### 安装依赖，这里单独说一个ocr图片处理的 ，当然用大模型也是可以的。
 ### python -m pip install paddlepaddle==3.0.0rc1 -i https://www.paddlepaddle.org.cn/packages/stable/cpu/
 
+
+![架构](https://github.com/liwanlei/UI_Automation_By_Model/blob/main/demo.png)
